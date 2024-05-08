@@ -4,3 +4,7 @@
     font-family: sans-serif, 'Poppins';
     box-sizing: border-box;
 }
+
+body {
+    background: #080800;
+}
